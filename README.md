@@ -9,7 +9,7 @@ Required fields to fill in the main file:
 3. OPEN_AI_TOKEN -> Your OpenAI token
 
 
-Run and build.
+Build and run.
 
 
 Commands:
